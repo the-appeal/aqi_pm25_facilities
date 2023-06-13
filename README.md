@@ -9,4 +9,4 @@ This repository contains the data and code used to calculate the peak and mean P
 The EPA collects data on particulate matter pollution from hundreds of monitoring sites across the country, most of which are run by state or local agencies. To calculate the peak and mean AQI values, we first determined the monitoring site closest to each facility. Then we calculated the peak AQI on June 7, 2023, (when pollution caused by the fires was at its worst) by determining the highest 1-hour average value at each monitoring site. We also calculated an average value for the entire 24-hour period, as this is the figure the EPA uses to report the official AQI each day.
 
 ## Questions
-If you have any questions about this data or our analysis, please reach out to [Alleen Brown](mailto:alleen.brown56@gmail.com] or [Ethan Corey](mailto:ethan.corey@theappeal.org).
+If you have any questions about this data or our analysis, please reach out to [Alleen Brown](mailto:alleen.brown56@gmail.com) or [Ethan Corey](mailto:ethan.corey@theappeal.org).
