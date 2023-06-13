@@ -5,7 +5,7 @@ https://github.com/ghing/python-data-cheatsheet/
 """
 import os
 
-project_name = "replicate_fazil"
+project_name = "aqi_pm25_facilities"
 cwd = os.getcwd()
 print(cwd)
 basename = os.path.basename(cwd)
