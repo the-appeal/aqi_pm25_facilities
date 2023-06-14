@@ -12,7 +12,7 @@ The EPA underlines in its guidelines for data use that AirNow data is preliminar
 
 ## Data Products
 We created two data products from our analysis:
-- [`pm25_aqi_by_facility`](https://github.com/the-appeal/aqi_pm25_facilities/blob/main/src/aqi_pm_25_facilities/data/processed/pm25_aqi_by_facility.csv): A CSV file containing data about each facility
+- [`pm25_aqi_by_facility.csv`](https://github.com/the-appeal/aqi_pm25_facilities/blob/main/src/aqi_pm_25_facilities/data/processed/pm25_aqi_by_facility.csv): A CSV file containing data about each facility
 - [`pm25_aqi_by_facility.geojson`](https://github.com/the-appeal/aqi_pm25_facilities/src/aqi_pm_25_facilities/data/processed/pm25_aqi_by_facility.geojson): The same exact data but in GeoJSON format with polygons added for each facility
 
 These datasets contain the following fields:
